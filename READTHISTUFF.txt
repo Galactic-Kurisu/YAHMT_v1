@@ -1,0 +1,2 @@
+Hello! I am Galactic-Kurisu. I love humans sometimes, also install python lol (pip install *insert shit here* for anything that isnt installed)
+Run the proxy scraper, it'll create 4 txt files (mostly empty) regardless enjoy the tool!
